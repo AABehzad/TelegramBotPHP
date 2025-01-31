@@ -50,7 +50,7 @@ class Telegram
     /**
      * Constant for type animation.
      */
-    const ANIMATION = 'animation';
+    const ANIMATION = 'animation1';
     /**
      * Constant for type sticker.
      */
