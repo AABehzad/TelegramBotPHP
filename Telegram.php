@@ -14,7 +14,7 @@ class Telegram
     /**
      * Constant for type Inline Query.
      */
-    const INLINE_QUERY = 'inline_query';
+    const INLINE_QUERY = 'inline_query1';
     /**
      * Constant for type Callback Query.
      */
